@@ -1,2 +1,4 @@
 This is the second file
 This is only added on new_branch
+I added a few new line
+To my new_branch branch
